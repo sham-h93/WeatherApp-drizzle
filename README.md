@@ -11,7 +11,7 @@ Room ORM
 Kotlin Coroutines
 Kotlin Flow
 
-I used Open weather map API
+I used OpenWeatherMap API
 
 get your api key from : [https://openweathermap.org/api]
 
